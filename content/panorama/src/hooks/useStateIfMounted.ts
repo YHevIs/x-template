@@ -1,6 +1,6 @@
 import type { Dispatch, SetStateAction } from 'react';
 import { useState, useCallback } from 'react';
-import useIsComponentMounted from './useIsComponnetMounted';
+import useIsComponentMounted from './useIsComponentMounted';
 
 /**
  * Like React's [useState](https://reactjs.org/docs/hooks-reference.html#usestate)
